@@ -93,7 +93,7 @@ WebDriver driver;
 		test.log(LogStatus.INFO, "Entering the details");
 		driver.findElement(By.name("name")).sendKeys("Atishay Jain");
 		driver.findElement(By.name("email")).sendKeys("atishayjain3107@gmail.com");
-		driver.findElement(By.name("password")).sendKeys("Doremone#1");
+		driver.findElement(By.name("password")).sendKeys("123456");
 		test.log(LogStatus.PASS, "Details entered successfully.");
 	}
 	
