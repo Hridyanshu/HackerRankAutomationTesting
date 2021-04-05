@@ -6,7 +6,7 @@ Certain parts of the website are tested and corresponding extentreports are gene
 
 ## Modules that are being tested are:
 
-1. [SignUp](Signuptest.java)
+1. [SignUp](SignUpTest.java)
 2. [Login](LoginTest.java)
 3. [Public profile details validation](UserProfileTest.java)
 
