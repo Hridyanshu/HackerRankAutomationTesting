@@ -1,7 +1,8 @@
 # HackerRankAutomationTesting
 
 This repository contains the code for Automation Testing of HackerRank.<br>
-Certain parts of the website are tested and corresponding extentreports are generated.
+Certain parts of the website are tested and corresponding extentreports are generated.<br>
+The tools used for testing are Java Selenium and TestNG.
 
 
 ## Modules that are being tested are:
